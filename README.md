@@ -32,13 +32,13 @@ A two-player chess game built with Python and Pygame. The game provides a graphi
 1. Clone the repository:
 
    ```bash
-   git clone <repository-url>
+   git clone 'https://github.com/mahmoudfawzy22/chess_game'
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd <project-directory>
+   cd 'chess_game'
    ```
 
 3. Install the required libraries:
@@ -66,13 +66,13 @@ A two-player chess game built with Python and Pygame. The game provides a graphi
 
 ## Controls
 
-| Action | Control |
-|---|---|
-| Select a piece | Left mouse click |
-| Move a piece | Left mouse click on a destination |
-| Forfeit the game | Click **FORFEIT** |
-| Restart after game over | Press `ENTER` |
-| Quit the game | Close the window |
+| Action                  | Control                           |
+| ----------------------- | --------------------------------- |
+| Select a piece          | Left mouse click                  |
+| Move a piece            | Left mouse click on a destination |
+| Forfeit the game        | Click **FORFEIT**                 |
+| Restart after game over | Press `ENTER`                     |
+| Quit the game           | Close the window                  |
 
 ## Project Structure
 
